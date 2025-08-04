@@ -9,6 +9,3 @@ This is a simple, responsive landing page built using **HTML5** and **CSS3**. Th
 - Clean, modern **UI design**
 - Hover effects and button animations
 - Fully responsive **header**, **hero section**, and **footer**
-
-## 🧩 Folder Structure
-
